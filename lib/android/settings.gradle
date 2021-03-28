@@ -1,0 +1,5 @@
+rootProject.name = 'MicroFlea'
+include ':react-native-yunpeng-webview'
+project(':react-native-yunpeng-webview').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-yunpeng-webview/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
