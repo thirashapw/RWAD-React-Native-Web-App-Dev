@@ -1,4 +1,4 @@
-package undo.thira.app;
+package dasd.dasdasd.asd;
 import com.facebook.react.ReactActivity;
 
 public class MainActivity extends ReactActivity {

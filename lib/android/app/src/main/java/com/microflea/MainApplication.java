@@ -1,4 +1,4 @@
-package undo.thira.app;
+package dasd.dasdasd.asd;
 import android.app.Application;
 import android.content.Context;
 import com.facebook.react.PackageList;

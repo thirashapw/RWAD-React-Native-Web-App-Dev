@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "undo.thira.app" 
+        applicationId "dasd.dasdasd.asd" 
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
