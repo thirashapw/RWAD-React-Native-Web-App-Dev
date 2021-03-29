@@ -3,6 +3,8 @@ RWADScript.ipynb
 RWADScript.py
 RWADScript.spec
 
+.gitignore
+
 .ipynb_checkpoints
 
 lib/.DS_Store
