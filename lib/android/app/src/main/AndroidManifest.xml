@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="dasd.dasdasd.asd">
+  package="com.myapplication.testingapp">
 
     <uses-permission android:name="android.permission.INTERNET" />
 

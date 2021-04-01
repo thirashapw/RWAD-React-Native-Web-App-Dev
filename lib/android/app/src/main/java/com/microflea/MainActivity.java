@@ -1,4 +1,4 @@
-package dasd.dasdasd.asd;
+package com.myapplication.testingapp;
 import com.facebook.react.ReactActivity;
 
 public class MainActivity extends ReactActivity {

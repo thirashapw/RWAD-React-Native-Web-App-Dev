@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "dasd.dasdasd.asd" 
+        applicationId "com.myapplication.testingapp" 
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

@@ -1,4 +1,4 @@
-package dasd.dasdasd.asd;
+package com.myapplication.testingapp;
 import android.app.Application;
 import android.content.Context;
 import com.facebook.react.PackageList;
