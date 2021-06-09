@@ -1,4 +1,4 @@
-package com.myapplication.testingapp;
+package com.rwad.tpw;
 import android.app.Application;
 import android.content.Context;
 import com.facebook.react.PackageList;

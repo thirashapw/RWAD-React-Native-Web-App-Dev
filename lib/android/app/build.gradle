@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.myapplication.testingapp" 
+        applicationId "com.rwad.tpw" 
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
