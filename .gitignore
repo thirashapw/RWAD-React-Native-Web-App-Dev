@@ -41,7 +41,7 @@ DerivedData
 *.xcuserstate
 
 
-lib/build/
+lib/android/app/build/
 .idea
 .gradle
 local.properties
