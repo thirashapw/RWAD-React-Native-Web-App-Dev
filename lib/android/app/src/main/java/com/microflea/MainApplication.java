@@ -1,4 +1,4 @@
-package com.rwad.tpw;
+package kadeape.dsitapps.rwad;
 import android.app.Application;
 import android.content.Context;
 import com.facebook.react.PackageList;

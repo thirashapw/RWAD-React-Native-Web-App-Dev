@@ -129,9 +129,9 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.rwad.tpw" 
-        minSdkVersion rootProject.ext.minSdkVersion
-        targetSdkVersion rootProject.ext.targetSdkVersion
+        applicationId "kadeape.dsitapps.rwad" 
+        minSdkVersion 21
+        targetSdkVersion 30
         versionCode 1
         versionName "1.0"
     }
