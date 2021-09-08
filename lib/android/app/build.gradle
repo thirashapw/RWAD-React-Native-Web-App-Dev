@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "kadeape.dsitapps.rwad" 
+        applicationId "com.rwad.tpw" 
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1

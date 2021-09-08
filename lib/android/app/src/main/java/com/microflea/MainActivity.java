@@ -1,4 +1,4 @@
-package kadeape.dsitapps.rwad;
+package com.rwad.tpw;
 import com.facebook.react.ReactActivity;
 
 public class MainActivity extends ReactActivity {

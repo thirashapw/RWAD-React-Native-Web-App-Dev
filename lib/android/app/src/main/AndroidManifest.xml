@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="kadeape.dsitapps.rwad">
+  package="com.rwad.tpw">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
